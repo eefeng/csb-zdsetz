@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://eefeng.github.io/csb-zdsetz/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://eefeng.github.io/csb-zdsetz/static/js/main.1c342e9c.chunk.js",
+    "main.js.map": "https://eefeng.github.io/csb-zdsetz/static/js/main.1c342e9c.chunk.js.map",
+    "runtime-main.js": "https://eefeng.github.io/csb-zdsetz/static/js/runtime-main.61c1cf2b.js",
+    "runtime-main.js.map": "https://eefeng.github.io/csb-zdsetz/static/js/runtime-main.61c1cf2b.js.map",
+    "static/js/2.c65d5156.chunk.js": "https://eefeng.github.io/csb-zdsetz/static/js/2.c65d5156.chunk.js",
+    "static/js/2.c65d5156.chunk.js.map": "https://eefeng.github.io/csb-zdsetz/static/js/2.c65d5156.chunk.js.map",
+    "index.html": "https://eefeng.github.io/csb-zdsetz/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://eefeng.github.io/csb-zdsetz/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c65d5156.chunk.js.LICENSE.txt": "https://eefeng.github.io/csb-zdsetz/static/js/2.c65d5156.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61c1cf2b.js",
+    "static/js/2.c65d5156.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1c342e9c.chunk.js"
+  ]
+}
